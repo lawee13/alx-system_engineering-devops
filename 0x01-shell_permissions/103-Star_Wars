@@ -1,0 +1,2 @@
+#!/bin/bash
+tel net http://towel.blinkenlights.nl
