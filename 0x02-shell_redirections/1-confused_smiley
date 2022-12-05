@@ -1,2 +1,2 @@
-command o
-echo "hello world"
+#!/bin/bash
+echo "\*"(Ôo)'"
